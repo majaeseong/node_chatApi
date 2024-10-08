@@ -1,0 +1,4 @@
+node_modules/
+
+# pkg를 통해 생성된 파일들
+soop_chat*
